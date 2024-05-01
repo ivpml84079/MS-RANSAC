@@ -1,6 +1,8 @@
 # MS-RANSAC
 Fast and Accurate Early Termination RANSAC for Image Feature Matching by Kuo-Liang Chung and Chia-Chi Hsu.
 
+![img](github_image.jpg)
+
 # Dependencies
 * OpenCV 4.8.0
 
