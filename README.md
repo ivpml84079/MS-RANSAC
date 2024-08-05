@@ -13,6 +13,9 @@ A C++ implementation of the GH-COOSAC method for removing mismatches in image fe
 * Visual Studio 2022
 * C++ 14
 
+# Usage
+After creating the project with Visual Studio 2022, compile the codes of our method in the project directory, and run ```Source.cpp```.
+
 # Support Vector Machine (SVM)
 ```train_angle_0729.txt``` and ```train_len_0729.txt``` are our training data for the SVM.
 
