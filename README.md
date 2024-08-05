@@ -1,5 +1,5 @@
 # MS-RANSAC
-Fast and Accurate Early Termination RANSAC for Image Feature Matching by Kuo-Liang Chung and Chia-Chi Hsu.
+Fast and Accurate Early Termination RANSAC for Image Feature Matching Using Machine Learning-Based Reliable Correspondence Set by Kuo-Liang Chung and Chia-Chi Hsu.
 
 ![img](github_image.jpg)
 
