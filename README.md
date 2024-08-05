@@ -14,6 +14,10 @@ A C++ implementation of the GH-COOSAC method for removing mismatches in image fe
 * C++ 14
 
 # Support Vector Machine (SVM)
+```train_angle_0729.txt``` and ```train_len_0729.txt``` are our training data for the SVM.
+
+```train_angle_0729.model``` and ```train_len_0729.model``` are the SVM models we have trained.
+
 ```svm_train_main.cpp``` is used to train an SVM classifier. By default, the trained model will be saved in ```/GH-COOSAC-main/svm_model```.
 
 You can modify the code to change the save directory:
