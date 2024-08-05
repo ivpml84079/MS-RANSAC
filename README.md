@@ -13,6 +13,9 @@ A C++ implementation of the GH-COOSAC method for removing mismatches in image fe
 * Visual Studio 2022
 * C++ 14
 
+# Support Vector Machine (SVM)
+
+
 # Contact
 If you have any questions, please email us via
 
