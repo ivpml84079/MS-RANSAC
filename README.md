@@ -15,6 +15,7 @@ A C++ implementation of the GH-COOSAC method for removing mismatches in image fe
 
 # Support Vector Machine (SVM)
 ```svm_train_main.cpp``` is used to train an SVM classifier. By default, the trained model will be saved in ```/GH-COOSAC-main/svm_model```.
+
 You can modify the code to change the save directory:
 ```
 svm_save_model(your_path, model);
