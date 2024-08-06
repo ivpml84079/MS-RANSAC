@@ -1,7 +1,6 @@
 # MS-RANSAC
 Fast and Accurate Early Termination RANSAC for Image Feature Matching Using Machine Learning-Based Reliable Correspondence Set by Kuo-Liang Chung, Chia-Chi Hsu, and Yu-Chi Chang.
 
-A C++ implementation of the GH-COOSAC method for removing mismatches in image feature matching.
 
 ![img](github_image.jpg)
 
