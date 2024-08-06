@@ -1,5 +1,5 @@
 # MS-RANSAC
-Fast and Accurate Early Termination RANSAC for Image Feature Matching Using Machine Learning-Based Reliable Correspondence Set by Kuo-Liang Chung, Chia-Chi Hsu, and Yu-Chi Chang.
+Fast and Accurate Early Termination RANSAC for Image Feature Matching Using Machine Learning-Based Reliable Correspondence Set by Kuo-Liang Chung, Chia-Chi Hsu, and Yu-Chi Chang
 
 
 ![img](github_image.jpg)
@@ -18,21 +18,14 @@ After creating the project with Visual Studio 2022, compile the codes of our met
 
 
 # Support Vector Machine (SVM)
-```train_angle_0729.txt``` and ```train_len_0729.txt``` are our training data for the SVM.
+The two training sets, ```train_orientation_0729.txt``` and ```train_length_0729.txt```, are used to train the SVM-based orientation model ```train_orientation_0729.model``` and the SVM-based length model ```train_length_0729.model```, respectively. Both trained SVM models are contained in the MLGH-based classifier ```svm_train_main.cpp```.
 
-```train_angle_0729.model``` and ```train_len_0729.model``` are the SVM models we have trained.
-
-```svm_train_main.cpp``` is used to train an SVM classifier. By default, the trained model will be saved in ```/GH-COOSAC-main/svm_model```.
-
-You can modify the code to change the save directory:
-```
-svm_save_model(your_path, model);
-```
+The trained MLGH-based classifier is saved in ```/MS-RANSAC-main/svm_model```.
 
 # Contact
 If you have any questions, please email us via
 
-Chia-Chi Hsu: <m11115040@mail.ntust.edu.tw>
+Yu-Chi Chang: <gigi1060307@gmail.com>
 
 Kuo-Liang Chung: <klchung01@gmail.com>
 
