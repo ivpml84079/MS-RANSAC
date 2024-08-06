@@ -22,7 +22,7 @@ After creating the project with Visual Studio 2022, compile the codes of our met
 
 ```train_angle_0729.model``` and ```train_len_0729.model``` are the SVM models we have trained.
 
-```svm_train_main.cpp``` is used to train an SVM classifier. By default, the trained model will be saved in ```/GH-COOSAC-main/svm_model```.
+By default, the trained model will be saved in ```/GH-COOSAC-main/svm_model```.
 
 You can modify the code to change the save directory:
 ```
