@@ -19,7 +19,7 @@ in the project directory, and run ```Source.cpp```.
 The two training sets, ```train_orientation_0729.txt``` and ```train_length_0729.txt```, are  used to train 
 the SVM-based orientation model ```train_orientation_0729.model``` and the SVM-based length model ```train_length_0729.model```, respectively. Both trained SVM models are contained in the MLGH-based classifier ```svm_train_main.cpp```.
 
-The trained MLGH-based classifier is saved in ```/MS-RANSAC-main/svm_model```.
+The trained MLGH-based classifier is saved in ```MS-RANSAC-main/svm_model```.
 
 # Contact
 If you have any questions, please email us via
